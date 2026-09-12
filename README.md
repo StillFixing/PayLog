@@ -1,4 +1,4 @@
-💎 PayLog: The Premium Financial Vault
+**💎 PayLog:** The Premium Financial Vault
 PayLog is a high-end, professional-grade digital ledger hand-crafted for elite financial tracking. It replaces traditional paper-based Khata books with a modern, secure, and visually stunning "Masterpiece" interface. Built for power users who demand both privacy and performance.
 
 ---
