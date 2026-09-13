@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "downloadUrl": "https://github.com/StillFixing/PayLog/releases/download/v1.2/PayLog_v1.2.apk",
-  "notes": "• Locked 120 FPS Performance\n• New 'Glow & Glass' Tutorials\n• Luxury Deletion Guardrails\n• Iron-Clad Data Restore Fixed"
+  "versionCode": 4,
+  "versionName": "1.2.1",
+  "downloadUrl": "https://github.com/StillFixing/PayLog/releases/download/v1.2.1/PayLog_v1.2.1.apk",
+  "notes": "v1.2.1 - The Precision Update:\n• New Smart Year Navigator in Month Picker.\n• High-end Sliding Year Animations.\n• Fixed Global Vibration bug (Universal control).\n• Added smooth scaling search bar animations.\n• Optimized logic to keep app ultra-lightweight."
 }
