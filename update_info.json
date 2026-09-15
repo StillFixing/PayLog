@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.1",
-  "downloadUrl": "https://github.com/StillFixing/PayLog/releases/download/v1.2.1/PayLog.v1.2.1.apk",
-  "notes": "v1.2.1 - The Precision Update:\n• New Smart Year Navigator in Month Picker.\n• High-end Sliding Year Animations.\n• Fixed Global Vibration bug (Universal control).\n• Added smooth scaling search bar animations.\n• Optimized logic to keep app ultra-lightweight."
+  "versionCode": 5,
+  "versionName": "1.3",
+  "downloadUrl": "https://github.com/StillFixing/PayLog/releases/download/v1.3/PayLog v1.3.apk",
+  "notes": "v1.3 - Intelligence & Motion:\n• New Global Debt Auditor (Click Dashboard boxes).\n• Grouped-by-Person Audit UI.\n• Fluid Horizontal Gliding animations.\n• 'HAVEN'T PAID YET' late alerts integrated.\n• Zero-Gap Absolute Headers (High-Density UI).\n• Optimized Calculator Haptic response."
 }
