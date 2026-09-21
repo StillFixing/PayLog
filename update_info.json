@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4",
-  "downloadUrl": "https://github.com/StillFixing/PayLog/releases/download/v1.4/PayLog.v1.4.apk",
-  "notes": "v1.4 - Masterpiece Evolution:\n• Branded PDF Reports for Shopping.\n• Bulletproof Notification Boot Recovery.\n• Advanced Store Sorting (Spend & Name).\n• Dedicated Dashboard Style Selection Center.\n• Ultra-Rounded 32dp Luxury Design.\n• Precision Fractional Entry Chips (¼, ½, ¾)."
+  "versionCode": 7,
+  "versionName": "1.4.1",
+  "downloadUrl": "https://github.com/StillFixing/PayLog/releases/download/v1.4.1/PayLog.v1.4.1.apk",
+  "notes": "v1.4.1 - Reliability Evolved:\n• Fixed 7-Day Auto-Backup Rotation logic.\n• Intelligent Gram/ML price calculation.\n• Smart 'Catch-Up' Notification engine.\n• Fixed entry freeze/crash in Shopping.\n• Ultra-Rounded 28dp Soft-Glass menus.\n• Bulk Pinning system in Store Directory."
 }
