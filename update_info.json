@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4.1",
-  "downloadUrl": "https://github.com/StillFixing/PayLog/releases/download/v1.4.1/PayLog.v1.4.1.apk",
-  "notes": "v1.4.1 - Reliability Evolved:\n• Fixed 7-Day Auto-Backup Rotation logic.\n• Intelligent Gram/ML price calculation.\n• Smart 'Catch-Up' Notification engine.\n• Fixed entry freeze/crash in Shopping.\n• Ultra-Rounded 28dp Soft-Glass menus.\n• Bulk Pinning system in Store Directory."
+  "versionCode": 8,
+  "versionName": "1.4.2",
+  "downloadUrl": "https://github.com/StillFixing/PayLog/releases/download/v1.4.2/PayLog.v1.4.2.apk",
+  "notes": "v1.4.2 - Deep-Link Intelligence & UI Refresh:\n• Direct Notification Deep-Links for Shop & Person details.\n• Bill Date selector section in Shop Item Creation menu.\n• Full Item Dates displayed on every Bill card & Detail sheet.\n• Redesigned high-contrast Update Dialog with System badge.\n• Fixed notification ID collision bug for payment reminders.\n• Enhanced state safety for deleted records & deep links."
 }
