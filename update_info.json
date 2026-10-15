@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.4.2",
-  "downloadUrl": "https://github.com/StillFixing/PayLog/releases/download/v1.4.2/PayLog.v1.4.2.apk",
-  "notes": "v1.4.2 - Deep-Link Intelligence & UI Refresh:\n• Direct Notification Deep-Links for Shop & Person details.\n• Bill Date selector section in Shop Item Creation menu.\n• Full Item Dates displayed on every Bill card & Detail sheet.\n• Redesigned high-contrast Update Dialog with System badge.\n• Fixed notification ID collision bug for payment reminders.\n• Enhanced state safety for deleted records & deep links."
+  "versionCode": 9,
+  "versionName": "1.5",
+  "downloadUrl": "https://github.com/StillFixing/PayLog/releases/download/v1.5/PayLog.v1.5.apk",
+  "notes": "v1.5 - Milestone Update & Intelligence Refresh:\n• Direct Notification Deep-Links: Tapping shop or person notifications opens their exact details screen instantly.\n• Shop Details Visual Progress Graph: Visual progress bar showing Paid vs Remaining Due with percentage settlement badges.\n• Bill Date Selector & Item Date Stamps: Select exact bill dates when creating/editing items, visible on every bill card & detail sheet.\n• Daily 9:00 AM Automated Reminders: Automatic daily morning notifications for unpaid shopping bills and due/overdue debt obligations.\n• Redesigned Luxury Update Dialog: High-contrast modal with System Update badge and release notes styling.\n• Core Reliability & Safety Fixes: Unique notification IDs, case-insensitive store matching, and secure fallback states."
 }
