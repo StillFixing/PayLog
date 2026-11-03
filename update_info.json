@@ -2,5 +2,5 @@
   "versionCode": 10,
   "versionName": "1.5.1",
   "downloadUrl": "https://github.com/StillFixing/PayLog/releases/download/v1.5.1/PayLog.v1.5.1.apk",
-  "notes": "v1.5.1 - Performance & Polish Update:\n• Dual-Tab Store Architecture: Separated store bills into 'Items' and 'Payment History' tabs.\n• Multi-Selection & Batch Record Deletion: Long-press records to edit, share, or batch delete.\n• Custom Partial Payments & Store Notes: Make custom partial payments with limit protection and save individual store memos.\n• Improved Unit Calculations & PDF Share Reports: Accurate retail unit math and polished PDF bill statements.\n• Enhanced Notification Deep-Links & Daily 9 AM Reminders: Bulletproof deep-linking and morning digests."
+  "notes": "v1.5.1 - Stability & Migration Fix Release:\n• Database Migration Fix: Resolved version 20 to 21 startup crash and removed destructive fallback to permanently safeguard user data.\n• Dual-Tab Store Architecture: Separated store bills into 'Items' and 'Payment History' tabs.\n• Multi-Selection & Batch Record Deletion: Long-press records to edit, share, or batch delete.\n• Custom Partial Payments & Store Notes: Make custom partial payments with limit protection and save individual store memos.\n• Enhanced Notification Deep-Links & Daily 9 AM Reminders: Bulletproof deep-linking and morning digests."
 }
